@@ -1,2 +1,2 @@
 # Image-Classification-Project
- Binary classifiers to identify handwritten digits and distinguish between images of sandals and sneakers using logistic regression and feature transformation.
+This project uses binary classification to identify handwritten digits while minimizing logistic loss. Feature transformation is then used in order to distinguish images of sandals from images of sneakers. The feature transformations used include augmenting the data set by flipping the images, counting the number of black pixels in the image, and changing the threshold.
